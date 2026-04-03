@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml:2:13-83
+INJECTED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml:2:13-83
+	package
+		INJECTED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml
+	xmlns:android
+		ADDED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml:2:23-81
+uses-sdk
+INJECTED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml reason: use-sdk injection requested
+INJECTED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml
+INJECTED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml
+	android:minSdkVersion
+		INJECTED from /Users/bradleywells/code/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8892070887969770818.xml
