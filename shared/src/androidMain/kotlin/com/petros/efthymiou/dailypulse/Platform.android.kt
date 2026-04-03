@@ -1,7 +1,16 @@
 package com.petros.efthymiou.dailypulse
 
-class AndroidPlatform : Platform {
-    override val name: String = "Android ${android.os.Build.VERSION.SDK_INT}"
-}
+actual class Platform(){
+    actual val osName: String
+        get() = TODO("Not yet implemented")
+    actual val osVersion: String
+        get() = TODO("Not yet implemented")
+    actual val deviceModel: String
+        get() = TODO("Not yet implemented")
+    actual val density: Int
+        get() = TODO("Not yet implemented")
 
-actual fun getPlatform(): Platform = AndroidPlatform()
+    actual fun logSustem() {
+    }
+
+}
